@@ -4,6 +4,9 @@
   "version": "1.0.0",
   "type": "module",
   "description": "Landing page institucional da Total Web Solutions — Érik Martins, Engenheiro de Software.",
+  "engines": {
+    "node": ">=20.19.0"
+  },
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
